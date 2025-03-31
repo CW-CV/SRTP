@@ -1,5 +1,6 @@
-apt-get install -y libgl1
+opencv-python-headless
 paddlepaddle>=3.0.0rc1
 paddleocr>=2.10.0
 openai>=1.66.3
 streamlit>=1.43.2
+./uninstall_opencv.sh
