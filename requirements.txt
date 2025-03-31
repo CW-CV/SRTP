@@ -1,3 +1,4 @@
+opencv-python>=4.8.1.78
 paddlepaddle>=3.0.0rc1
 paddleocr>=2.10.0
 openai>=1.66.3
