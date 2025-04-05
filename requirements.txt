@@ -2,3 +2,5 @@ paddlepaddle==3.0.0rc1
 paddleocr==2.10.0
 openai==1.66.3
 streamlit==1.43.2
+python-docx==1.1.2
+pdfplumber==0.11.6

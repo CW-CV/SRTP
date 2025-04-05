@@ -9,6 +9,10 @@
 （3）安装openai whl包： pip install openai
 
 （4）安装streamlit框架： pip install streamlit
+
+（5）安装python-docx whl包： pip install python-docx
+
+（6）安装pdfplumber whl包： pip install pdfplumber
 ### 3.配置Pycharm
 在Pycharm界面的右下角有项目的python解释器设置，点击“添加新的解释器”，点击“Conda环境”，找到虚拟环境所对应的conda可执行文件——..\Anaconda3\Scripts\conda.exe，点击“加载环境”。
 ### 4.运行app_streamlit.py
